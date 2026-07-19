@@ -1,4 +1,4 @@
-# 🌍 CeloHT — Web3 Social Impact Ecosystem
+# 🌍 CeloHT - Web3 Social Impact Ecosystem
 
 CeloHT is an open-source, community-driven Web3 ecosystem focused on **financial inclusion**, **digital education**, **community agent networks**, and **environmental restoration**. Built in Haiti, designed for the world.
 
