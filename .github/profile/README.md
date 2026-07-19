@@ -22,11 +22,11 @@ By 2030, CeloHT will be a global reference ecosystem for:
 - Digital Inclusion  
 
 ## 🏛️ Key Repositories
-- [Celo-HT](ca://s?q=CeloHT_main_platform) — Main ecosystem platform  
-- [celoht-public-website](ca://s?q=CeloHT_public_website) — Official website  
-- [celoht-impact](ca://s?q=CeloHT_impact_reports) — Climate & financial inclusion impact  
-- [celoht-education](ca://s?q=CeloHT_education_platform) — Learning & training tools  
-- [CeloHT-DAO-Layer](ca://s?q=CeloHT_DAO_governance) — Governance & DAO smart contracts  
+- [Celo-HT](ca://s?q=CeloHT_main_platform) - Main ecosystem platform  
+- [celoht-public-website](ca://s?q=CeloHT_public_website) - Official website  
+- [celoht-impact](ca://s?q=CeloHT_impact_reports) - Climate & financial inclusion impact  
+- [celoht-education](ca://s?q=CeloHT_education_platform) - Learning & training tools  
+- [CeloHT-DAO-Layer](ca://s?q=CeloHT_DAO_governance) - Governance & DAO smart contracts  
 
 ## 🤝 How to Get Involved
 - Developers  
