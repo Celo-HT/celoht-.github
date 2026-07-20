@@ -105,3 +105,11 @@ The objective is to create a sustainable governance model that reflects the need
 # Governance Statement
 
 **CeloHT is founded by an individual but built by a community. Its direction is shaped through collaboration, transparency, and shared responsibility.**
+
+## Relationship with Celo
+
+CeloHT is an independent community initiative built within the Celo ecosystem.
+
+CeloHT uses Celo technology and ecosystem tools to support education, financial inclusion, community adoption, and environmental initiatives.
+
+CeloHT is not a product of the Celo Foundation and does not represent Celo governance.
